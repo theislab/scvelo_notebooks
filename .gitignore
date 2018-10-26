@@ -1,0 +1,6 @@
+cache/
+figures/
+write/
+*.loom
+*.h5ad
+.ipynb_checkpoints/
