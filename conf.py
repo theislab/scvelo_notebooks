@@ -1,6 +1,8 @@
+from datetime import datetime
+
 project = 'scVelo'
-copyright = '2018, Volker Bergen'
-author = 'scVelo authors'
+author = 'Volker Bergen'
+copyright = f'{datetime.now():%Y}, {author}'
 
 version = ''
 release = version
