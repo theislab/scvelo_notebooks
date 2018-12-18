@@ -2,10 +2,10 @@
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   Getting Started <https://scvelo.readthedocs.io/en/latest/getting_started.html#http://>
-   Basic Usage <https://scvelo.readthedocs.io/en/latest/getting_started.html#basic-usage#http://>
+   Getting Started <https://scvelo.readthedocs.io/en/latest/getting_started.html>
+   Basic Usage <https://scvelo.readthedocs.io/en/latest/getting_started.html#basic-usage>
    DentateGyrus
-   API <https://scvelo.readthedocs.io/en/latest/api.html#http://>
-   References <https://scvelo.readthedocs.io/en/latest/references.html#http://>
+   API <https://scvelo.readthedocs.io/en/latest/api.html>
+   References <https://scvelo.readthedocs.io/en/latest/references.html>

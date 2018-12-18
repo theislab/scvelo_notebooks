@@ -7,6 +7,7 @@ release = version
 
 extensions = [
     'nbsphinx',
+    'sphinxcontrib.httpdomain'
 ]
 
 templates_path = ['_templates']
