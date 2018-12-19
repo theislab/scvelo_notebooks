@@ -20,16 +20,10 @@ pygments_style = 'sphinx'
 # -- Options for HTML output ----------------------------------------------
 
 html_theme = 'sphinx_rtd_theme'
-html_theme_options = dict(
-    navigation_depth=2,
-)
-html_context = dict(
-    display_github=True,      # Integrate GitHub
-    github_user='theislab',   # Username
-    github_repo='scvelo_notebooks',     # Repo name
-    github_version='master',  # Version
-    conf_py_path='/',    # Path in the checkout to the docs root
-)
+html_theme_options = dict(navigation_depth=2)
+html_context = dict(display_github=True, github_user='theislab', github_repo='scvelo_notebooks',
+                    github_version='master', conf_py_path='/')
+
 html_static_path = ['_static']
 
 def setup(app):
