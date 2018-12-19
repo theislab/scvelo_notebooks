@@ -1,7 +1,7 @@
 |PyPI| |Docs| |travis|
 
 scVelo – stochastic single cell RNA velocity
-==========================================================
+============================================
 
 .. image:: https://i.ibb.co/XWsfsvD/Image-Pasted-at-2018-11-28-18-24.png
    :width: 800px
@@ -36,8 +36,6 @@ I highly recommend going through some exemplary notebooks_.
 .. _notebooks: https://nbviewer.jupyter.org/github/theislab/scvelo_notebooks/tree/master/
 
 Report issues and see the code on `GitHub <https://github.com/theislab/scvelo>`__.
-
-.. include:: release_notes.rst
 
 .. toctree::
    :maxdepth: 1

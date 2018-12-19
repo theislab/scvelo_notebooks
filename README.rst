@@ -1,2 +1,2 @@
-scVelo examples
-===============
+scVelo notebooks
+================
