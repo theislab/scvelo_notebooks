@@ -45,5 +45,5 @@ Report issues and see the code on `GitHub <https://github.com/theislab/scvelo>`_
    Basic Usage <https://scvelo.readthedocs.io/en/latest/getting_started.html#basic-usage>
    DentateGyrus
    API <https://scvelo.readthedocs.io/en/latest/api.html>
-   Release Notes: <https://scvelo.readthedocs.io/en/latest/release_notes.html>
+   Release Notes <https://scvelo.readthedocs.io/en/latest/release_notes.html>
    References <https://scvelo.readthedocs.io/en/latest/references.html>
