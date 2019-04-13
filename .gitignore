@@ -1,8 +1,6 @@
 _build/
-data/
 cache/
 figures/
 write/
 *.loom
-*.h5ad
 .ipynb_checkpoints/
