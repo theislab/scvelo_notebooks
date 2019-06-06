@@ -4,3 +4,4 @@ figures/
 write/
 *.loom
 .ipynb_checkpoints/
+.idea/
