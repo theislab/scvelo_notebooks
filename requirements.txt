@@ -1,3 +1,4 @@
-sphinx>=1.7
 ipykernel
+sphinx>=1.7
 nbsphinx==0.3.5
+sphinx_copybutton

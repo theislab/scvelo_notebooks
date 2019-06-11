@@ -19,3 +19,30 @@
 .rst-content dl:not(.docutils) dl dt a.reference>code {
     text-decoration: underline;
 }
+
+
+/* Enlarge to max-width 900px (default: 800px) */
+.wy-nav-content {
+   max-width: 900px !important;
+}
+
+
+/* Copy buttons */
+a.copybtn {
+    position: absolute;
+    top: -6.5px;
+    right: 0px;
+    width: 1em;
+    height: 1em;
+    padding: .15em;
+	opacity: .4;
+	transition: opacity 0.5s;
+}
+
+
+/* Remove prompt line numbers */
+.nbinput > :first-child,
+.nboutput > :first-child {
+    min-width: 0 !important;
+}
+
