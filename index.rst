@@ -40,7 +40,6 @@ Report issues and see the code on `GitHub <https://github.com/theislab/scvelo>`_
    :hidden:
 
    Getting Started <https://scvelo.readthedocs.io/en/latest/getting_started.html>
-   Basic Usage <https://scvelo.readthedocs.io/en/latest/getting_started.html#basic-usage>
    DentateGyrus
    API <https://scvelo.readthedocs.io/en/latest/api.html>
    Release Notes <https://scvelo.readthedocs.io/en/latest/release_notes.html>
