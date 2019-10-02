@@ -38,7 +38,7 @@ Report issues and see the code on `GitHub <https://github.com/theislab/scvelo>`_
    :maxdepth: 1
    :hidden:
 
-   About <https://scvelo.readthedocs.io/en/latest/about.html>
+   About RNA velocity <https://scvelo.readthedocs.io/en/latest/about.html>
    Getting Started <https://scvelo.readthedocs.io/en/latest/getting_started.html>
    DentateGyrus
    API <https://scvelo.readthedocs.io/en/latest/api.html>
