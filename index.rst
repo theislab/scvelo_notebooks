@@ -40,7 +40,13 @@ Report issues and see the code on `GitHub <https://github.com/theislab/scvelo>`_
 
    About RNA velocity <https://scvelo.readthedocs.io/about.html>
    Getting Started <https://scvelo.readthedocs.io/getting_started.html>
-   DentateGyrus
    API <https://scvelo.readthedocs.io/api.html>
    Release Notes <https://scvelo.readthedocs.io/release_notes.html>
    References <https://scvelo.readthedocs.io/references.html>
+
+.. toctree::
+   :caption: Tutorials
+   :maxdepth: 1
+   :hidden:
+
+   DentateGyrus
