@@ -54,6 +54,7 @@ Your help to improve scVelo is highly appreciated.
    :hidden:
 
    Getting Started <https://scvelo.readthedocs.io/getting_started.html>
+   VelocityBasics
    DentateGyrus
    Pancreas
 
