@@ -5,7 +5,7 @@ copyright = '2018, Volker Bergen'
 version = ''
 release = version
 
-extensions = ['nbsphinx', 'sphinx_copybutton']
+extensions = ['nbsphinx']
 
 templates_path = ['_templates']
 source_suffix = ['.rst', '.ipynb']
