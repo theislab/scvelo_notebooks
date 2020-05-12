@@ -56,6 +56,7 @@ Your help to improve scVelo is highly appreciated.
    Getting Started <https://scvelo.readthedocs.io/getting_started.html>
    VelocityBasics
    DynamicalModeling
+   DifferentialKinetics
 
 .. toctree::
    :caption: Example Datasets
