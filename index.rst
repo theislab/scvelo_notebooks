@@ -55,9 +55,15 @@ Your help to improve scVelo is highly appreciated.
 
    Getting Started <https://scvelo.readthedocs.io/getting_started.html>
    VelocityBasics
-   DentateGyrus
-   Pancreas
+   DynamicalModeling
 
+.. toctree::
+   :caption: Example Datasets
+   :maxdepth: 1
+   :hidden:
+
+   Pancreas
+   DentateGyrus
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/scvelo.svg
    :target: https://pypi.org/project/scvelo
