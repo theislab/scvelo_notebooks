@@ -54,16 +54,16 @@ Your help to improve scVelo is highly appreciated.
    :hidden:
 
    Getting Started <https://scvelo.readthedocs.io/getting_started.html>
-   VelocityBasics
-   DynamicalModeling
-   DifferentialKinetics
+   VelocityBasics <https://scvelo.readthedocs.io/VelocityBasics.html>
+   DynamicalModeling <https://scvelo.readthedocs.io/DynamicalModeling.html>
+   DifferentialKinetics <https://scvelo.readthedocs.io/DifferentialKinetics.html>
 
 .. toctree::
    :caption: Example Datasets
    :maxdepth: 1
    :hidden:
 
-   Pancreas
+   Pancreas <https://scvelo.readthedocs.io/Pancreas.html>
    DentateGyrus
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/scvelo.svg
