@@ -64,7 +64,7 @@ Your help to improve scVelo is highly appreciated.
    :hidden:
 
    Endocrine Pancreas <https://scvelo.readthedocs.io/Pancreas.html>
-   DentateGyrus
+   Dentate Gyrus <https://scvelo.readthedocs.io/DentateGyrus.html>
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/scvelo.svg
    :target: https://pypi.org/project/scvelo
