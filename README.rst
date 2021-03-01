@@ -12,6 +12,8 @@ scVelo - RNA velocity generalized through dynamical modeling
 **scVelo** is a scalable toolkit for RNA velocity analysis in single cells, based on
 `Bergen et al. (Nature Biotech, 2020) <https://doi.org/10.1038/s41587-020-0591-3>`_.
 
+This repository hosts the scVelo datasets, tutorials and reproducibility notebooks.
+
 For further information visit the `main repository <https://github.com/theislab/scvelo>`_ or `scvelo.org <https://scvelo.org>`_.
 
 
