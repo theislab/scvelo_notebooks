@@ -1,3 +1,0 @@
-ipykernel
-sphinx>=1.7
-nbsphinx>=0.7
